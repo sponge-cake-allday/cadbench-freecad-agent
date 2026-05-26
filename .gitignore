@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+harbor_datasets/
+jobs/
+runs/
+submission_artifacts/
+cad_agent_v1/
+
+*.FCStd
+*.step
+*.stp
+*.stl
